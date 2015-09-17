@@ -270,11 +270,10 @@
 			width: 100%;
 			border-radius: 50%;
 			background: url('images/profile.jpg');
-			background-position-y: -1995px;
-    		background-position-x: 1538px;
-    		background-size: 300%;
+			background-size: 100%;
     		opacity: 0.8;
-    		background-repeat: none;
+    		background-repeat: no-repeat;
+    		background-position: center;
 		}
 
 		&.featured {
