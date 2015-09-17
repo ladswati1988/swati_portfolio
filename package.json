@@ -1,0 +1,32 @@
+{
+  "name": "swati_portfolio",
+  "version": "1.0.0",
+  "description": "This is a portfolio application",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ladswati1988/swati_portfolio.git"
+  },
+  "keywords": [
+    "HTML5",
+    "CSS3",
+    "AngularJS",
+    "JavaScript",
+    "JQuery",
+    "Photoshop",
+    "Dreamweaver"
+  ],
+  "author": "Swati Lad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ladswati1988/swati_portfolio/issues"
+  },
+  "homepage": "https://github.com/ladswati1988/swati_portfolio",
+  "devDependencies": {
+    "http-server": "^0.8.0",
+    "sass": "^0.5.0"
+  }
+}

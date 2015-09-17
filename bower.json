@@ -1,0 +1,29 @@
+{
+  "name": "swati_portfolio",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ladswati1988/swati_portfolio",
+  "authors": [
+    "Swati Lad"
+  ],
+  "description": "This is portfolio app.",
+  "main": "index.html",
+  "keywords": [
+    "AngularJS",
+    "HTML5",
+    "CSS3",
+    "Photoshop",
+    "JavaScript",
+    "JQuery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.5"
+  }
+}
